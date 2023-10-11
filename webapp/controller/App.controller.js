@@ -7,7 +7,9 @@ sap.ui.define(
   
       return BaseController.extend("gitsample.gitsample.controller.App", {
         onInit() {
-        }
+        },
+          {
+      }
       });
     }
   );
